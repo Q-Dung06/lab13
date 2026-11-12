@@ -1,0 +1,29 @@
+## Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+*.trx
+*.coverage
+
+## Build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+## NuGet
+*.nupkg
+packages/
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Temporary
+tmp/
